@@ -1,0 +1,970 @@
+﻿Producto;Descripcion;Vendor;Existencias
+VER0066;Acelga de colores;Huerto Raxjuyu;0
+VER0001;Acelga Verde;Huerto Raxjuyu;0
+FRU0001;Aguacate Hass;Alimentos Vida;3.5
+VER0003;Ajo;Tierra Verde;9
+HIE0001;Albahaca Italiana;Alimentos Vida;0
+HIE0002;Albahaca Morada;Alimentos Vida;0
+HIE0032;Apazote;Alimentos Vida;0
+VER0028;Apio Baby;Alimentos Vida;0
+FRU0002;Arandano;Kultiva;2
+FRU0049;Arandano Congelado;Kultiva;0
+VER0006;Arugula;Alimentos Vida;0
+VER0007;Arveja;Tierra Verde;0
+VER0008;Berenjena;Alimentos Vida;0
+VER0009;Berro;Alimentos Vida;0
+VER0011;Broccoli;Alimentos Vida;0
+VER0010;Broccolini;Caoba;0
+VER0126;Calabaza Azul;Caoba;0
+VER0012;Camote Amarillo;Alimentos Vida;12
+VER0072;Camote Anaranjado;Caoba;5
+VER0073;Camote Morado;Caoba;20
+VER0013;Cebolla Blanca;Alimentos Vida;1
+VER0120;Cebolla Blanca - Fresca - Unidad;Alimentos Vida;0
+VER0014;Cebolla Morada;Alimentos Vida;6
+VER0122;Cebolla Morada Fresca - Lb;Alimentos Vida;0
+VER0015;Cebollin;Alimentos Vida;0
+HON0001;Champinon;Grotto;5
+VER0017;Chaya;Alimentos Vida;0
+VER0124;Chile Guaque;Tierra Verde;2
+VER0018;Chile Jalapeño;ADIKAM;8
+VER0123;Chile Pasa;Tierra Verde;4
+VER0016;Chile Pimiento;ADIKAM;13
+HIE0008;Chipilin;Alimentos Vida;0
+HIE0010;Cilantro;Alimentos Vida;0
+VER0134;Col de Bruselas;Tierra Verde;0
+VER0070;Coliflor;Alimentos Vida;0
+HON0002;Crimini;Grotto;1
+CON0044;Curcuma;Caoba;6
+VER0021;Ejote;Tierra Verde;0
+VER0133;Elote Criollo;Alimentos Vida;0
+VER0082;Elote Dulce;Tierra Verde;0
+HIE0020;Eneldo;Alimentos Vida;0
+VER0024;Espinaca;Alimentos Vida;3
+CON0083;Flores Comestibles - Mix;Caoba;0
+CON0004;Flores Comestibles - Nasturtos;Huerto Raxjuyu;0
+FRU0051;Frambuesa - Congelada;Paraiso;1
+FRU0050;Frambuesa - Fresca;Paraiso;0
+FRU0006;Fresa - Fresca;Alimentos Vida;0
+GRA0001;Frijol Negro;Tierra Verde;7
+GRA0004;Frijol Piloy;Alimentos Vida;2
+GRA0048;Frijol Rojo;Don Chalio;0
+VER0025;Guicoyitos;Alimentos Vida;0
+VER0027;Guisquil;Alimentos Vida;0
+HIE0019;Hierbabuena;Alimentos Vida;0
+VER0029;Hinojo;Alimentos Vida;0
+HON0003;Hongos Ostra - Azules/Negros;Paraiso;0
+HON0010;Hongos Ostra - Dorado;Gastrofungi;0
+HON0009;Hongos Ostra - Rosados;Gastrofungi;0
+CON0007;Jengibre Fresco ;Alimentos Vida;0
+VER0032;Kale Colocho ;Caoba;0
+VER0030;kale liso;Huerto Raxjuyu;3
+HIE0011;Lavanda ;Michelle;0
+VER0033;Lechuga Escarola - Morada;Alimentos Vida;0
+VER0034;Lechuga Escarola - Verde;Alimentos Vida;0
+VER0035;Lechuga Romana;Alimentos Vida;0
+FRU0082;Limon Meyer;Proyecto Magnolia;3
+VER0038;Limon Persa;Tierra Verde;32
+FRU0086;Mango Thailandes (Nam Dok Mai) - Manojo;MESA;0
+FRU0029;Mango Tommy;Tierra Verde;0
+FRU0008;Manzana;Tierra Verde;0
+FRU0009;Maracuyá;Alimentos Vida;0
+FRU0005;Melocoton;Tierra Verde;0
+VER0040;Miltomate;Alimentos Vida;0
+HIE0006;Mix de Brotes;Caoba;0
+HIE0022;Oregano hoja ancha;Michelle;0
+HIE0018;Oregano italiano;Michelle;0
+VER0042;Papa;Tierra Verde;26
+VER0043;Pepino;Alimentos Vida;0
+SEM0011;Pepitoria cruda;Tierra Verde;3
+FRU0044;Pera de Lecha ;Tierra Verde;10.5
+HIE0012;Perejil;Alimentos Vida;0
+VER0044;Perulero;Alimentos Vida;4
+FRU0011;Platano Maduro;MESA;12
+FRU0042;Platano Verde;MESA;18
+HON0005;Portobello;Grotto;2
+VER0045;Puerro;Alimentos Vida;0
+HIE0013;Quilete;Alimentos Vida;0
+VER0046;Rabano;Alimentos Vida;0
+VER0059;Rabano Daikon;Caoba;0
+VER0047;Remolacha;Tierra Verde;24
+VER0049;Repollo Morado;Alimentos Vida;0
+VER0048;Repollo Verde;Alimentos Vida;0
+HIE0014;Romero;Michelle;0
+BEB0011;Rosa de Jamaica;Tierra Verde;2
+HIE0015;Salvia;Alimentos Vida;0
+GRA0047;Soya Verde;Tierra Verde;0
+VER0067;Tatsoi;Huerto Raxjuyu;0
+VER0057;Tomate Cherry;ADIKAM;21.5
+VER0051;Tomate Manzano;ADIKAM;6
+VER0050;Tomate Roma;ADIKAM;71.5
+VER0052;Tomate Ukraniano;Caoba;0
+HIE0017;Tomillo ;Michelle;0
+VER0054;Zanahoria;Tierra Verde;22.5
+VER0055;Zanahoria Baby;Caoba;3
+VER0056;Zucchini;Tierra Verde;9
+CAR0060;Huevos - 30 Unidades;Santa Augusta;4
+CON0087;Curcuma (Activada con Pimienta Negra) - En Polvo;ALKALINA;9
+CAR0015;Pollo Entero;Pascolo;2
+LIM0066;Jabon para Platos (3 Piezas);Violeta Organica;1
+LIM0077;Pashte;Thasus;1
+LIM0013;Jabon Liquido para Manos - Limon;Baobab;3
+LIM0008;Desinfectante de Lemongrass;Tierra & Lava;5
+LIM0079;Detergente - Eucalipto & Cedro;Tierra & Lava;7
+LIM0072;All Shine - Limpiador de Superficies;Seashine Labs;9
+ACE0007;Ghee Artesanal;Mother Nature Foods;3
+DEN0018;Enjuague Bucal;Koruveda;6
+SNA0050;Tahini Artesanal;Shangri-La;9
+MAS0032;Carne de Res - Hueso Rodilla;San Vicente;2
+CAR0040;Carne de Res - Hueso Pescuezo;San Vicente;1
+CAR0041;Carne de Res - Hueso Paleta;San Vicente;1
+CAR0039;Carne de Res - Hueso Relleno (Tuetano);San Vicente;8
+ACE0006;Ghee Artesanal;Mother Nature Foods;0
+BEB0077;Cafe Molido - Tueste Oscuro - Lago Atitlan;Shangri-La;6
+CAR0024;Carne de Res - Carne Molida;San Vicente;3
+CAR0014;Pechuga de Pollo - Sin Hueso;Pascolo;5
+CAR0009;Carne de Bufalo - Molida;El Alto;8
+CAR0031;Carne de Res - Pecho-Brisket;San Vicente;9
+CAR0049;Pierna & Cuadril de Pollo;Pascolo;1
+FRU0059;Toronja - Convencional;LUCKY;1
+CAR0072;Carne de Res - Milanesa;San Vicente;4
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
