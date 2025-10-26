@@ -1,25 +1,23 @@
 # Cinco Azul · Orden a proveedor, Recepción y Faltantes por Cliente (UI)
 
-Este proyecto implementa 3 tareas encadenadas y orientadas a uso por interfaz gráfica (Streamlit):
+Este proyecto implementa 3 tareas :
 
 1) Tarea 1 — Generar orden al proveedor
 2) Tarea 2 — Recepción de mercadería
 3) Tarea 3 — Reporte de faltantes por cliente
 
-La lógica corre 100% desde la interfaz web; los puntos de entrada por consola (CLI) fueron retirados para simplificar el flujo.
-
 ## Estructura del proyecto
 
-- `generar_ordenes.py` — Lógica para construir la orden por proveedor (columnas estrictas y hojas por proveedor).
-- `recepcion_mercaderia.py` — Utilidades de lectura/escritura para la recepción (sin interacción por consola).
-- `reporte_faltantes_por_cliente.py` — Genera CSV de faltantes por cliente con asignación FIFO.
+- `generar_ordenes.py` — Lógica para construir la orden por proveedor.
+- `recepcion_mercaderia.py` — Utilidades de lectura/escritura para la recepción.
+- `reporte_faltantes_por_cliente.py` — Genera CSV de faltantes por cliente.
 - `ui/streamlit_app.py` — Interfaz Streamlit con las 3 tareas.
 - `data/`
    - `pedidos.csv` — pedidos de clientes (separador `;`).
    - `inventario.csv` — existencias por producto (separador `;`).
    - `ordenesc/` — salida de Tarea 1: `ordenes_proveedor.xlsx`.
-   - `recepciones/` — salidas de Tarea 2 (`recepcion_YYYYMMDD_HHMMSS.csv`).
-   - `reportes/` — salidas de Tarea 3 (`faltantes_por_cliente_YYYYMMDD_HHMMSS.csv`).
+   - `recepciones/` — salidas de Tarea 2.
+   - `reportes/` — salidas de Tarea 3.
 - `requirements.txt` — dependencias (pandas, openpyxl, streamlit).
 
 ## Requisitos
@@ -75,8 +73,7 @@ streamlit run .\ui\streamlit_app.py
    - En pedidos, si existe un identificador de pedido, se mapea el “Nombre completo” del cliente por pedido.
 - Excel de Tarea 1:
    - Hojas por proveedor además de la principal; los nombres de hoja se sanitizan para cumplir reglas de Excel.
-- Sin consola: se retiraron los scripts interactivos por CLI. Todo se ejecuta desde la interfaz Streamlit.
-
+ 
 ## Solución de problemas
 
 - “No se encontró columna de SKU en inventario”: revisa el encabezado de `inventario.csv` y renómbralo a alguna de las variantes aceptadas (`SKU`, `Producto`, `CODPRODUCTO`, `Codigo`, etc.). El error mostrará las columnas detectadas.
